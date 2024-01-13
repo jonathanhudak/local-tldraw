@@ -3,3 +3,7 @@
   top: 50px;
 	z-index: 300;
 }
+
+.custom-controls__select {
+  width: 75px;
+}

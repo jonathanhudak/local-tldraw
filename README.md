@@ -52,6 +52,12 @@ Update Key/Value Pair
 curl -X PUT -H "Content-Type: application/json" -d '{"value":"powerz"}' http://localhost:8000/fartz
 ```
 
+Delete Key/Value Pair
+
+```bash
+curl -X DELETE http://localhost:8000/fartz
+```
+
 
 
 
