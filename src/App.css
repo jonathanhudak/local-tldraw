@@ -1,0 +1,5 @@
+.custom-controls {
+  position: absolute;
+  top: 50px;
+	z-index: 300;
+}
